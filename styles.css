@@ -48,3 +48,8 @@ img {
     padding-left: 21px;
     padding-right: 21px;
 }
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(0, 0, 0);
+}
